@@ -8,14 +8,6 @@ Trace phone numbers using Python!
 - Display location as numeric data
 - Create a map as an html file
 
-# Plugins required
-
-- pip install phonenumbers
-- pip install opencage
-- pip install carrier
-- pip install colorama
-
-
 # OS Required
 - Linux
 - Android
